@@ -23,6 +23,7 @@ public class 문제3 {
                 // 이러면 'A' + 1 식 더해서 값을 구함
             } else if(cnt[i] == maxCnt) {
                 maxAlphabet = '?';
+                // 이건 먼지 모르겠음
 
             }
         }
